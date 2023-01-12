@@ -1,0 +1,25 @@
+/* @media  (max-width: 991px) {
+  .subtitle_main {
+    margin-top: -30px;
+  }
+  .heroes {
+    height: 600px;
+  }
+} */
+@media (max-width:767px) {
+  .cards4_fon {
+    padding-top: 180px;
+  }
+  .img_carousel {
+    margin-bottom: 30px;
+  }
+  /* .subtitle_main {
+    font-size: 5vw;
+  }
+  .title_main {
+    font-size: 7vw;
+  } */
+  /* .box {
+    width: 60%;
+  } */
+}
